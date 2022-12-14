@@ -1,3 +1,3 @@
 # kokoa-challenge 2022 Update
 
-Css got so much better!
+HTML & CSS got so much better!
